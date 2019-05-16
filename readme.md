@@ -30,12 +30,7 @@ Abaixo indicaremos cursos pra começar, a não ser que você saiba o conteúdo c
 
 ### Udemy
 
-Acesse udemy.com se logue e faça os cursos abaixo.
-
-```
-Email: contato@souhibrido.com.br
-Senha: h1br1d00321@@
-```
+Acesse udemy.com peça acesso ao seu lider e faça os cursos abaixo.
 
  * [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/overview)
  * [Composer para Iniciantes](https://www.udemy.com/composer-para-iniciantes/learn/v4/overview)
